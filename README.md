@@ -2,6 +2,8 @@
 
 toolman.cf 的博客的相册云图片
 
+改用了picgo上传图片
+
 ## 提交命令
 
 - git add .
