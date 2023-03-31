@@ -12,6 +12,6 @@ toolman.cf 的博客的相册云图片
 
   > 双引号中内容是本次的提交说明，类似记录小标题
 
-- git push --force  origin master
+- git push --force  origin main
 
   > 取消差异，强制推送
