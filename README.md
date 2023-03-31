@@ -1,7 +1,17 @@
 # BlogImgs
 
-dellevin.github.io
-的博客的相册云图片
+toolman.cf 的博客的相册云图片
 
-不想用图床,那玩意是不是删图片,郁闷死我了。暂时不知道这个删不删。删图图片的话，是真没办法了
+## 提交命令
 
+- git add .
+
+  > add . 表示添加全部已更改的文档，也可以单独选择文档，例如：`git add README.md`
+
+- git commit -m "内容"
+
+  > 双引号中内容是本次的提交说明，类似记录小标题
+
+- git push --force  origin master
+
+  > 取消差异，强制推送
